@@ -1,0 +1,7 @@
+functions-build
+.netlify/
+.env
+functions/generated/
+.envrc
+node_modules/
+lambda/
